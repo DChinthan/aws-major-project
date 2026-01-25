@@ -1,0 +1,18 @@
+# OS junk
+.DS_Store
+
+# Logs
+*.log
+
+# Env / secrets
+.env
+
+# SSH keys
+*.pem
+
+# Build artifacts
+**/target/
+
+# IDE
+**/.vscode/
+**/.idea/
